@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>The Daily Stack</title>
+  <link>https://yoavinator.github.io/daily-stack-caacd6db/</link>
+  <atom:link href="https://yoavinator.github.io/daily-stack-caacd6db/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <description>A daily briefing on AI, tech and markets, made for Yoav.</description>
+  <lastBuildDate>Mon, 19 Oct 2026 19:53:40 +0000</lastBuildDate>
+  <itunes:author>Yoav</itunes:author>
+  <itunes:owner><itunes:name>Yoav</itunes:name></itunes:owner>
+  <itunes:summary>A daily briefing on AI, tech and markets, made for Yoav.</itunes:summary>
+  <itunes:image href="https://yoavinator.github.io/daily-stack-caacd6db/cover.png"/>
+  <image><url>https://yoavinator.github.io/daily-stack-caacd6db/cover.png</url><title>The Daily Stack</title><link>https://yoavinator.github.io/daily-stack-caacd6db/</link></image>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:block>Yes</itunes:block>
+  <item>
+    <title>The Daily Stack — Monday, October 19, 2026: Anthropic's Equity Pledge, Agents Behaving Badly, and the Chip Rebound</title>
+    <description><![CDATA[<p>Welcome to The Daily Stack. It&#x27;s Monday, October 19th. Today: Anthropic puts five percent of the company into a fund, and it&#x27;s also quietly buying up confidential-computing talent. We&#x27;ll get into why agents keep running into walls, both their own guardrails and the websites that are now blocking them. Then there&#x27;s the chip trade, which just snapped its worst losing streak since 2008, and the bond market isn&#x27;t buying the bounce yet.</p><p>Sources:</p><ul><li><a href="https://www.anthropic.com/news/public-benefit-fund">Anthropic — Investing in the public benefit (Oct 18, 2026)</a></li><li><a href="https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html">CNBC — Anthropic to commit 5% stake to new public benefit fund</a></li><li><a href="https://www.theguardian.com/technology/artificialintelligenceai/2026/oct/19/all">The Guardian — AI coverage, Oct 19 2026 (Anthropic $48bn fund)</a></li><li><a href="https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/">SecurityWeek — Anthropic Acquires Confidential AI Startup Opaque Systems</a></li><li><a href="https://www.opaque.co/">Opaque — company announcement</a></li><li><a href="https://biztechdaily.com/article/anthropic-opaque-license-hire-confidential-ai">BizTech Daily — Anthropic&#x27;s Opaque deal: a license and hire</a></li><li><a href="https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/">OpenAI Alignment — Using a funded test cryptocurrency wallet without authorization</a></li><li><a href="https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798">The Block — OpenAI research model spent another wallet&#x27;s testnet ETH</a></li><li><a href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/">Ars Technica — OpenAI models hacked a crypto wallet and breached more websites</a></li><li><a href="https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/">SecurityWeek — OpenAI models hacked data portals, raided a crypto wallet</a></li><li><a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-october-19-2026/">The Neuron — Everything that happened in AI today, Oct 19 2026</a></li><li><a href="https://aibriefs.news/ai-news-today">AIBriefs — AI News Today, Oct 19 2026</a></li><li><a href="https://aiweekly.co/ai-news-today">AI Weekly — AI News Today (Tenstorrent, TorchNeuron)</a></li><li><a href="https://digestai.news/daily/2026-10-19">Digest AI — AI news for Oct 19 2026 (MiniMax M3.1 Flash)</a></li><li><a href="https://www.investing.com/news/stock-market-news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-4957420">Reuters via Investing.com — AI stocks bounce back, CoreWeave gets Goldman upgrade</a></li><li><a href="https://www.barrons.com/livecoverage/stock-market-news-today-101926">Barron&#x27;s — Stock market today, Oct 19 2026</a></li><li><a href="https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112734828.html">Yahoo Finance — Nasdaq, S&amp;P 500 rise as the AI trade rebounds</a></li><li><a href="https://investinglive.com/stocks/european-stocks-close-lower-across-the-board-as-bond-yields-climb/">investingLive — European stocks close lower as bond yields climb</a></li><li><a href="https://www.sharecast.com/news/market-report-close/ftse-us-earnings-barclays-pets-at-home-ocado-volex--23882872.html">Sharecast — FTSE slides as European civil unrest dents sentiment</a></li></ul>]]></description>
+    <itunes:summary>Welcome to The Daily Stack. It's Monday, October 19th. Today: Anthropic puts five percent of the company into a fund, and it's also quietly buying up confidential-computing talent. We'll get into why agents keep running into walls, both their own guardrails and the websites that are now blocking them. Then there's the chip trade, which just snapped its worst losing streak since 2008, and the bond market isn't buying the bounce yet.</itunes:summary>
+    <enclosure url="https://yoavinator.github.io/daily-stack-caacd6db/episodes/2026-10-19.mp3" length="14233388" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-stack-2026-10-19</guid>
+    <pubDate>Mon, 19 Oct 2026 06:00:00 -0400</pubDate>
+    <itunes:duration>00:14:50</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+</channel>
+</rss>
